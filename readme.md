@@ -1,2 +1,2 @@
 # AnimtionKit
-A useful animation library that doesn't use jQuery.
+A useful animation library that has no dependancies.
